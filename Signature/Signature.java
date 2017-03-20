@@ -1,4 +1,3 @@
-package com.dreamskymxdan.connect4u
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -7,6 +6,12 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 @SuppressWarnings("deprecation")
+
+/**
+ * Created by daniel shen on 3/16/2017.
+ */
+
+
 public class Signature extends RelativeLayout {
 	
 	private TextView _label;

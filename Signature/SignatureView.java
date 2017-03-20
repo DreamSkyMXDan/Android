@@ -38,7 +38,7 @@ public class SignatureView extends ImageView {
 	private Paint mBitmapPaint;
 	private float xscale = 1f;
 	private float yscale = 1f;
-	private int _width = DEFAULT_WIDTH;
+	int _width = DEFAULT_WIDTH;
 	private int _height = DEFAULT_HEIGHT;
 	private int _mode = 0;
 	private int strokeColor = Color.BLUE; 
